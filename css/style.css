@@ -355,7 +355,7 @@ float: left;
 	float: left;
 	margin: 0px;
 	padding: 0px;
-	background-image: url("file:///C:/Users/SRI%20SAI/Desktop/New%20folder/images/banner2.jpg");
+	background-image: url("/images/banner2.jpg");
  	
 }
 
@@ -434,7 +434,7 @@ text-transform:lowercase;
 	float: left;
 	margin: 0px;
 	padding: 0px;
-	background-image: url("file:///C:/Users/SRI%20SAI/Desktop/New%20folder/images/banner3.jpg");
+	background-image: url("images/banner3.jpg");
 	background-size:580px 236px;
 	background-repeat: no-repeat;
 	
@@ -458,7 +458,7 @@ color:pink;
 	width:100%;
 	margin: 0px;
 	padding:0px;
-	background-image: url("file:///C:/Users/SRI%20SAI/Desktop/New%20folder/images/banner3.jpg");
+	background-image: url("images/banner3.jpg");
 	background-size:280px 236px;
 	background-repeat: no-repeat;
 	height:100%;
